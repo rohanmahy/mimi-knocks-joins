@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Applications and Real-Time"
+workgroup: "More Instant Messaging Interoperability"
 keyword:
  - knock
  - join link
@@ -18,12 +18,12 @@ keyword:
  - invitation
  - doors
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "More Instant Messaging Interoperability"
+  type: "Working Group"
+  mail: "mimi@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/mimi/"
+  github: "rohanmahy/mimi-knocks-joins"
+  latest: "https://rohanmahy.github.io/mimi-knocks-joins/draft-mahy-mimi-knocks-joins.html"
 
 author:
  -
